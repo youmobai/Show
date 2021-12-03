@@ -1,28 +1,53 @@
-ÈËÎïäÖÈ¾(ramp Ãè±ß ¸ß¹â)
+#äººç‰©æ¸²æŸ“(ramp æè¾¹ é«˜å…‰)
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/1.gif)
-¿¨Í¨º£ (½¥±ä µ¹Ó° ¹«Ê½²¨ÀË ÔëÉù°×ÀË)
+
+#å¡é€šæµ· (æ¸å˜ å€’å½± å…¬å¼æ³¢æµª å™ªå£°ç™½æµª)
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/2.gif)
-Óê
+
+#é›¨
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/3.gif)
-½»»¥Á°äô
+
+#äº¤äº’æ¶Ÿæ¼ª
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/4.gif)
-·ç¸ñ»¯ÑÒ½¬
+
+#é£æ ¼åŒ–å²©æµ†
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/5.gif)
-ºó´¦ÀíÈÈÀË
+
+#åå¤„ç†çƒ­æµª
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/6.gif)
-ºó´¦ÀíÌù»­ (¸ù¾İÉî¶È»æÖÆ)
+
+#åå¤„ç†è´´ç”» (æ ¹æ®æ·±åº¦ç»˜åˆ¶)
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/7.gif)
-Íø¸ñÌù»­ (Éú³ÉĞÂÍø¸ñ)
+
+#ç½‘æ ¼è´´ç”» (ç”Ÿæˆæ–°ç½‘æ ¼)
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/8.png)
-·ç¸ñ»¯º£
+
+#é£æ ¼åŒ–æµ·
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/9.gif)
-½¥±äÈÜ½â
+
+#æ¸å˜æº¶è§£
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/10.png)
-ºó´¦Àí¹«Ê½Á°äô
+
+#åå¤„ç†å…¬å¼æ¶Ÿæ¼ª
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/11.gif)
-»ğ
+
+#ç«
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/12.gif)
-PBR²ÄÖÊ
+
+#PBRæè´¨
+
 ![](https://github.com/youmobai/Show/blob/main/ShowTexture/13.gif)
 
 
